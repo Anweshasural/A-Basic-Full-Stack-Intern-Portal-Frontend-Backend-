@@ -1,5 +1,5 @@
-# A-Basic-Full-Stack-Intern-Portal-Frontend-Backend-
-<br># 🌟 Intern Dashboard App
+A-Basic-Full-Stack-Intern-Portal-Frontend-Backend-
+<br> 🌟 Intern Dashboard App
 
 A responsive and simple dashboard web app for interns to track:
 - Referral code

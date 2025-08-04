@@ -18,7 +18,7 @@ Built with ReactJS, and powered by static JSON.
 📸 Screenshots
 
 🔐 Login Page
-[Login](A-Basic-Full-Stack-Intern-Portal-Frontend-Backend-\intern-dashboard-app\public/screenshots/Login.png)
+[Login](A-Basic-Full-Stack-Intern-Portal-Frontend-Backend-\intern-dashboard-app/public/screenshots/Login.png)
 
 📊 Dashboard
 [Dashboard](/A-Basic-Full-Stack-Intern-Portal-Frontend-Backend-\intern-dashboard-app\publicscreenshots/Dashboard.png)

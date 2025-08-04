@@ -1,12 +1,56 @@
-# React + Vite
+A-Basic-Full-Stack-Intern-Portal-Frontend-Backend-
+🌟 Intern Dashboard App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and simple dashboard web app for interns to track:
 
-Currently, two official plugins are available:
+Referral code
+Donations raised
+Unlockable rewards
+Leaderboard
+Built with ReactJS, and powered by static JSON.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔧 Tech Stack
 
-## Expanding the ESLint configuration
+ReactJS (Vite or CRA)
+Custom CSS
+Static JSON (mock backend)
+📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔐 Login Page Login
+
+📊 Dashboard Dashboard
+
+🏆 Leaderboard Leaderboard
+
+🚀 How to Run This Project
+
+🛠️ Clone the Repo
+
+git clone https://github.com/Anweshasural/A-Basic-Full-Stack-Intern-Portal-Frontend-Backend-.git
+cd intern-dashboard-app
+npm install
+npm run dev     # if using Vite
+# OR
+npm start       # if using Create React App
+npm install react-router-dom  #install react-router-dom
+http://localhost:5173   # (for Vite)
+
+intern-dashboard-app/
+├── public/
+│   └── data/
+│       ├── dashboard.json
+│       └── leaderboard.json
+├── src/
+│   ├── App.js
+│   └── components/
+│       ├── Login.jsx
+│       ├── Dashboard.jsx
+│       ├── Leaderboard.jsx
+│       └── styles.css
+├── screenshots/
+│   ├── login.png
+│   ├── dashboard.png
+│   └── leaderboard.png
+└── README.md
+React + Vite
+

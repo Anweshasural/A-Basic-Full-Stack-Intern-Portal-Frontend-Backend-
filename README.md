@@ -18,13 +18,13 @@ Built with ReactJS, and powered by static JSON.
 📸 Screenshots
 
 🔐 Login Page
-[Login](screenshots/Login.png)
+[Login](A-Basic-Full-Stack-Intern-Portal-Frontend-Backend-\intern-dashboard-app\public/screenshots/Login.png)
 
 📊 Dashboard
-[Dashboard](screenshots/Dashboard.png)
+[Dashboard](/A-Basic-Full-Stack-Intern-Portal-Frontend-Backend-\intern-dashboard-app\publicscreenshots/Dashboard.png)
 
 🏆 Leaderboard
-[Leaderboard](screenshots/internLogin.png)
+[Leaderboard](A-Basic-Full-Stack-Intern-Portal-Frontend-Backend-\intern-dashboard-app\public/screenshots/internLogin.png)
 
 🚀 How to Run This Project
 
